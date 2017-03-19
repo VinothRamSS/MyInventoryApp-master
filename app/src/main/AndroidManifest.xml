@@ -27,7 +27,7 @@
             android:authorities="com.example.ark.vinothram"
             android:exported="false" />
 
-        <activity android:name=".Main2Activity"></activity>
+
     </application>
 
 </manifest>
